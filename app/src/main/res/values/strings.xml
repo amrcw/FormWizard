@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FormWizardForRuwan</string>
+
+
+    <string-array name="numbers_array">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+    </string-array>
+</resources>
